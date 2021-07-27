@@ -1,10 +1,13 @@
 # Micro-Band
- Source Code - Micro Band
+ Source Codes - Micro Band
 
- # First Song:
+- [Micro-Band](#micro-band)
+  - [First Song:](#first-song)
+
+ ## First Song:
 
  Digimon - Butterfly 
 
  [![SONG](./Digimon/Images/logo.png)](https://youtu.be/9PxnsWCP0HE)
 
- [Source-Code](https://github.com/altaga/Micro-Band/tree/main/Digimon)
+ [Source-Codes](https://github.com/altaga/Micro-Band/tree/main/Digimon)
